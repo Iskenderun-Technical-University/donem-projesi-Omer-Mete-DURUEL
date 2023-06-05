@@ -9,6 +9,6 @@
 
 
    <h1>Kullanılacak Veri Tabanı Tabloları :</h1>
-   Projede kullanılacak muhtemel veri tabanı tabloları ürün kategorileri,markaları,adetleri,fiyatları.Müşteri kısmında ise isim soyisim ,TC No,telefeon numarası,e-posta aderesi.
+   Projede kullanılacak muhtemel veri tabanı tabloları ürün kategorileri,markaları,adetleri,fiyatları.Müşteri kısmında ise isim soyisim ,TC No,telefeon numarası,e-posta adresi.
    
    <h3>Bu readme.md dosyası pull sırasında silindiği için tekrar yüklenmiştir</h3>
